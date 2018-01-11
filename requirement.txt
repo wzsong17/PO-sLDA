@@ -1,0 +1,7 @@
+sudo pip install mrjob
+sudo apt-get install python-scipy
+sudo apt-get install python-numpy
+
+
+
+
