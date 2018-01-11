@@ -1,7 +1,7 @@
-# Mr.sLDA
+# PO-sLDA
 online supervised LDA based on stochastic variational inference and MapReduce
 
-## requirement:
+## requirements:
 1. python2.7
 2. numpy
 3. mrjob
