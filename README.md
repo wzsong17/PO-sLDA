@@ -1,4 +1,4 @@
-# PO-sLDA
+# PO-sLDA (Mr.sLDA)
 online supervised LDA based on stochastic variational inference and MapReduce
 
 ## requirements:
@@ -9,6 +9,6 @@ online supervised LDA based on stochastic variational inference and MapReduce
 ## reference:
 [online slda](https://github.com/yolu1055/online-sLDA)
 
-## cite:
+## citation:
 1. Song W, Yang B, Zhao X, et al. A fast and scalable supervised topic model using stochastic variational inference and MapReduce[C]// IEEE International Conference on Network Infrastructure and Digital Content. IEEE, 2017:94-98.
-2. Li Y, Song W, Yang B. Stochastic Variational Inference-Based Parallel and Online Supervised Topic Model for Large-Scale Text Processing// Under review 2018.
+2. Li Y, Song W, Yang B. Stochastic Variational Inference-Based Parallel and Online Supervised Topic Model for Large-Scale Text Processing// Journal of Computer Science and Technology (accepted).
